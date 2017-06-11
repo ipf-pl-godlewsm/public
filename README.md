@@ -5,5 +5,4 @@
 
 <script>
 	window.open('http://www.google.com', '_blank', 'toolbar=0,location=0,menubar=0');
-
 </script>
